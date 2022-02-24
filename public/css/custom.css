@@ -1,0 +1,34 @@
+.subs{
+    padding-bottom:0%;
+    margin-bottom:10px;
+}
+.notitle{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.name {
+    margin: auto;
+    margin-bottom: 0%;
+    width: 50%;
+    padding-top: 10px;
+    text-align: center;
+}
+hr.solid {
+    border-top: 3px solid #bbb;
+    margin-top: 0%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.education{
+    margin-bottom: 2.5rem;
+}
+
+.lists{
+    margin-left: 5%;
+}
+#rightside{
+    text-align: right;
+}
